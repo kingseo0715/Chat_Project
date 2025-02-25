@@ -1,0 +1,23 @@
+﻿<Window x:Class="Chat.ChatMain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Chat"
+        mc:Ignorable="d"
+        Title="ChatMain" Height="640" Width="360">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Margin="156,144,0,0" TextWrapping="Wrap" Text="사용자 이름 리턴" VerticalAlignment="Top" Width="120" Height="40"/>
+        <TextBox HorizontalAlignment="Left" Margin="77,128,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="60" Background="#FFC7C1C1" Height="60"/>
+        <Label Content="친구목록" HorizontalAlignment="Left" Margin="52,278,0,0" VerticalAlignment="Top" Width="104" Height="40" FontSize="20"/>
+        <Label Content="김다은" HorizontalAlignment="Left" Margin="84,335,0,0" VerticalAlignment="Top" Width="72" Height="30" FontSize="17"/>
+        <Button x:Name="Btn_chat1" Content="채팅" HorizontalAlignment="Left" Margin="248,337,0,0" VerticalAlignment="Top" Width="44" Height="30" RenderTransformOrigin="1.644,0.435" Click="Btn_chat1_Click"/>
+        <Label Content="장수진" HorizontalAlignment="Left" Margin="84,381,0,0" VerticalAlignment="Top" Width="72" Height="30" FontSize="17"/>
+        <Button Content="채팅" HorizontalAlignment="Left" Margin="248,378,0,0" VerticalAlignment="Top" Width="44" Height="30" RenderTransformOrigin="1.644,0.435"/>
+        <Label Content="박민제" HorizontalAlignment="Left" Margin="84,422,0,0" VerticalAlignment="Top" Width="72" Height="30" FontSize="17"/>
+        <Button Content="채팅" HorizontalAlignment="Left" Margin="248,420,0,0" VerticalAlignment="Top" Width="44" Height="30" RenderTransformOrigin="1.644,0.435"/>
+        <Label Content="임정규" HorizontalAlignment="Left" Margin="84,460,0,0" VerticalAlignment="Top" Width="72" Height="30" FontSize="17"/>
+        <Button Content="채팅" HorizontalAlignment="Left" Margin="248,459,0,0" VerticalAlignment="Top" Width="44" Height="30" RenderTransformOrigin="1.644,0.435"/>
+
+    </Grid>
+</Window>
