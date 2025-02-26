@@ -60,8 +60,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -71,8 +75,7 @@
               "ToolTip": "C:\\Users\\lms\\source\\repos\\Chat\\ChatMain.xaml",
               "RelativeToolTip": "ChatMain.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-24T09:29:27.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T09:29:27.084Z"
             },
             {
               "$type": "Document",
@@ -84,8 +87,7 @@
               "RelativeToolTip": "ChatMain.xaml.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAvwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T07:51:02.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T07:51:02.85Z"
             },
             {
               "$type": "Document",
@@ -97,8 +99,7 @@
               "RelativeToolTip": "ChatPerson.xaml.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAUwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T09:04:26.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T09:04:26.175Z"
             },
             {
               "$type": "Document",
@@ -108,7 +109,7 @@
               "RelativeDocumentMoniker": "..\\ChatServer\\Program.cs",
               "ToolTip": "C:\\Users\\lms\\source\\repos\\ChatServer\\Program.cs",
               "RelativeToolTip": "..\\ChatServer\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T00:35:17.643Z",
               "EditorCaption": ""
@@ -122,21 +123,19 @@
               "ToolTip": "C:\\Users\\lms\\source\\repos\\Chat\\ChatPerson.xaml",
               "RelativeToolTip": "ChatPerson.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-24T09:01:52.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T09:01:52.251Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ChatServer",
+              "Title": "ChatServer.csproj",
               "DocumentMoniker": "C:\\Users\\lms\\source\\repos\\ChatServer\\ChatServer.csproj",
               "RelativeDocumentMoniker": "..\\ChatServer\\ChatServer.csproj",
               "ToolTip": "C:\\Users\\lms\\source\\repos\\ChatServer\\ChatServer.csproj",
               "RelativeToolTip": "..\\ChatServer\\ChatServer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-25T01:54:21.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T01:54:21.642Z"
             },
             {
               "$type": "Document",
@@ -148,8 +147,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAtwCIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T06:56:39.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T06:56:39.428Z"
             },
             {
               "$type": "Document",
@@ -161,8 +159,7 @@
               "RelativeToolTip": "Join.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T07:40:07.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T07:40:07.628Z"
             },
             {
               "$type": "Document",
@@ -185,8 +182,7 @@
               "ToolTip": "C:\\Users\\lms\\source\\repos\\Chat\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-24T07:04:59.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T07:04:59.731Z"
             },
             {
               "$type": "Document",
@@ -197,8 +193,7 @@
               "ToolTip": "C:\\Users\\lms\\source\\repos\\Chat\\Join.xaml",
               "RelativeToolTip": "Join.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-24T07:35:59.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T07:35:59.446Z"
             },
             {
               "$type": "Document",
@@ -221,8 +216,7 @@
               "ToolTip": "C:\\Users\\lms\\source\\repos\\Chat\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-24T06:56:41.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T06:56:41.93Z"
             }
           ]
         }
